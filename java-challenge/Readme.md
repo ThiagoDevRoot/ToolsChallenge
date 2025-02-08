@@ -22,7 +22,7 @@ Como Executar os Testes
     Clone o repositório:
     Bash
 
-git clone https://github.com/ThiagoDevRoot/ToolsChallenge-.git
+git clone https://github.com/ThiagoDevRoot/ToolsChallenge.git
 
 Acesse o diretório do projeto:
 Bash
